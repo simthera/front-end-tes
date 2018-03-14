@@ -154,7 +154,7 @@
             <div class="col-6 full-width no-pad">
 <?php
 
-$email_to = "you@yourdomain.com";
+$email_to = "kirk@lab.co.uk";
 $fullname = $_POST["fullname"];
 $email = $_POST["email"];
 $tel = $_POST["tel"];
